@@ -4,4 +4,4 @@ Created by Folu Taiwo.
 
 Utilizes - HTML, CSS, Javascript
 
-Hosted by - Netlify
+Hosted by - GitHub and Netlify
