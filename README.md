@@ -3,3 +3,5 @@ Developed a personal portfolio website showcasing my skills, experiences, and ac
 Created by Folu Taiwo.
 
 Utilizes - HTML, CSS, Javascript
+
+Hosted by - Netlify
