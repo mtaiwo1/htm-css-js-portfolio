@@ -272,6 +272,7 @@ section{
   padding:100px 0;
   position:relative;
 }
+
 h2.section-title{
   font-family:"Space Grotesk",sans-serif;
   text-align:center;
@@ -408,6 +409,7 @@ p.lead{
   display:grid;
   grid-template-columns:1fr 1fr;
   gap:24px;
+  margin-bottom: 60px;
 }
 .info-card{
   background:var(--card);
